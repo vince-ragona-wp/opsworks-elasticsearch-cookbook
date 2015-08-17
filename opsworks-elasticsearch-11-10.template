@@ -303,7 +303,8 @@
                     {
                         "MountPoint": "/mnt/elasticsearch-data",
                         "NumberOfDisks": 1,
-                        "Size": 100
+                        "Size": 50,
+                        "VolumeType": "gp2"
                     }
                 ],
                 "CustomSecurityGroupIds": [
