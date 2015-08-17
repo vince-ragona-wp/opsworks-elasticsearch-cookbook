@@ -256,7 +256,7 @@
           "Name": "Chef",
           "Version": "11.10"
         },
-        "ChefConfiguration":{
+        "ChefConfiguration": {
           "BerkshelfVersion": "3.2.0",
           "ManageBerkshelf": true
         },
