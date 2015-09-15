@@ -305,7 +305,7 @@
           {
             "MountPoint": "/mnt/elasticsearch-data",
             "NumberOfDisks": 1,
-            "Size": 50,
+            "Size": 100,
             "VolumeType": "gp2"
           }
         ],
