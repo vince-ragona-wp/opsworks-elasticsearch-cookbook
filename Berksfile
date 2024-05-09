@@ -15,6 +15,6 @@ cookbook 'yum', git: 'git://github.com/opscode-cookbooks/yum.git', tag: 'v3.1.0'
 cookbook 'yum-epel', '>= 0.3.4', git: 'git://github.com/opscode-cookbooks/yum-epel.git', tag: 'v0.3.4'
 cookbook 'elasticsearch', '>= 0.3.14', git: 'git://github.com/elasticsearch/cookbook-elasticsearch.git', tag: 'v0.3.14'
 cookbook 'mongodb', git: 'git://github.com/edelight/chef-mongodb'
-#cookbook 'homebrew', '= 2.1.2', git: 'git://github.com/sous-chefs/homebrew.git', tag: 'v2.1.2'
+cookbook 'homebrew', '= 2.1.2', git: 'git://github.com/sous-chefs/homebrew.git', tag: 'v2.1.2'
 #cookbook 'gems', '= 1.0.2', git: 'git://github.com/sous-chefs/gems.git', tag: 'v1.0.2'
 
